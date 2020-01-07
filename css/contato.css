@@ -42,3 +42,18 @@ form label, form legend {
     background: darkorange;
     transform: scale(1.2);
 }
+
+table {
+    margin: 20px 0;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: black solid 1px;
+    padding: 8px 15px;
+}
